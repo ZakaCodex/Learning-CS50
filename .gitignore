@@ -1,0 +1,24 @@
+### Executable files
+
+*.exe
+
+### C/C++ build files
+
+*.o
+*.obj
+*.out
+
+### Visual Studio & VS Code
+
+.vs/
+x64/
+x86/
+Debug/
+Release/
+.vscode/
+*.code-workspace
+
+### OS files
+
+Thumbs.db
+.DS_Store
